@@ -54,14 +54,6 @@ pip install requests colorlog
 pip install -r requirement.txt
 ```
 
-### 各函数功能使用方法喵：
-
-看`example.py`吧喵，里面写了一个示例，用上了主要功能，看注释也许都能理解怎么用了罢喵~
-
-`getSave.py`是获取云存档并解析写出到`PhigrosSave.json`的示例喵
-
-`uploadNickname.py`是修改昵称的示例，但Phigros仅在登录Taptap时会同步一次昵称好像，不如自己去手机上改`.userdata`喵
-
 ## 未来计划功能喵！
 
 - [x] **本地提取userdata[ADB/]**(注释较为完整喵)
