@@ -7,8 +7,8 @@
 
 <img src="https://counter.seku.su/cmoe?name=phi-gs-py&theme=r34" title="喵喵喵~"/><br>
 
-[![Phi-LocalAction-python](https://img.shields.io/badge/Github-LocalAction(本地数据操作)-red?style=for-the-badge&logo=Github)](https://github.com/wms26/Phi-LocalAction-python)
-[![Phi-CloudAction-python](https://img.shields.io/badge/Github-CloudAction(云端数据操作)-red?style=for-the-badge&logo=Github)](https://github.com/wms26/Phi-LocalAction-python)
+[![Phi-LocalAction-python](<https://img.shields.io/badge/Github-LocalAction(本地数据操作)-red?style=for-the-badge&logo=Github>)](https://github.com/wms26/Phi-LocalAction-python)
+[![Phi-CloudAction-python](<https://img.shields.io/badge/Github-CloudAction(云端数据操作)-red?style=for-the-badge&logo=Github>)](https://github.com/wms26/Phi-LocalAction-python)
 
 [![PhigrosLibrary](https://img.shields.io/badge/yt6983138-PhigrosLibraryCSharp-blue?style=for-the-badge&logo=Github)](https://github.com/yt6983138/PhigrosLibraryCSharp/)
 
@@ -18,19 +18,21 @@
 
 ## 声明喵：
 
-**本项目仅作为学习参考用，请勿用作违法用途喵！(虽然我也想不到能做什么违法的事情就是了喵)**
+1. **本项目仅作为学习参考使用，严禁用于任何形式的网络攻击、非法数据获取、破坏游戏平衡等违反用户所在国家/地区法律的行为。使用本项目进行违法活动所产生的全部法律风险由使用者自行承担。**
 
-**编写本项目所需的资料和资源均源于互联网收集喵(所以本人就是一个废物，什么都要依靠互联网喵(bushi))**
+2. **编写本项目所需的资料和资源均源于互联网收集喵(所以本人就是一个废物喵，什么都要依靠互联网喵(bushi))**
 
-**本项目的初衷仅仅是为了供学习参考使用，本人从未想过要破坏音游圈的游戏平衡喵！**
+3. **本项目的初衷仅仅是为了供学习参考使用喵，本人从未想过要破坏音游圈的游戏平衡喵！**
 
-**请勿尝试滥用本项目！已加检测，请不要试图做出任何商业行为！否则统一纳入黑名单！(此条声明可能与GPLv3许可证存在冲突，请以README.md中本声明为准！)**
+4. **本项目作者不鼓励、不支持任何形式的商业用途。若您将本项目或其修改版本用于商业目的，所产生的一切后果（包括但不限于法律纠纷、用户投诉等）均与原作者及贡献者无关。**
 
-**对于本项目本喵拥有最终解释权！请不要做出让任何一个音游玩家都会十分反感的事情！**
+5. **对于本项目，请不要做出让任何一个音游玩家都会十分反感的事情！**
 
-**如果你认为本项目不应该存在或者有其他问题，可以提交Issues或者发送邮件到qianqi26@616.sb，我时不时会去查看邮箱喵~**
+6. **本项目与 Pigeon Games、TapTap 没有任何关联，也未获其认可或支持。项目中涉及的游戏资源（如曲目定数、存档结构等）均为其各自所有者的财产，我们仅出于学习研究目的进行非商业性引用。**
 
-**Emmm...对于本项目有建议或者问题的请提交Issue谢谢喵~(提Issue方便往后其他有相同问题的人不会再问一遍喵)**
+7. **如果你认为本项目不应该存在或者有其他问题，可以提交Issues或者发送邮件到qianqi26@616.sb，我时不时会去查看邮箱**
+
+8. **对于本项目有建议或者问题的请提交Issue谢谢喵~(提Issue方便往后其他有相同问题的人不会再问一遍喵)**
 
 ## 环境准备喵！
 
@@ -73,8 +75,10 @@ pip install -r requirement.txt
 ## 更新日志喵：
 
 ### 2026/02/24：
+
 1. 完善requirement.txt
 
 ### 2025/02/08：
+
 1. 将GetSession从Phi-CloudAction分离至本仓库
 2. 修改部分代码，优化部分注释
