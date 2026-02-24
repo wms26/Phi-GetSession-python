@@ -1,2 +1,5 @@
 requests
 colorlog
+
+qrcode
+pillow

@@ -72,6 +72,9 @@ pip install -r requirement.txt
 
 ## 更新日志喵：
 
+### 2026/02/24：
+1. 完善requirement.txt
+
 ### 2025/02/08：
 1. 将GetSession从Phi-CloudAction分离至本仓库
 2. 修改部分代码，优化部分注释
